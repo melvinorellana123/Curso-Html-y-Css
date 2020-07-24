@@ -1,8 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    height: 70px;
+    display: flex;
+    
+}
 
 
 
 /* las clases llevan un punto antes */
 
-.texto-header{
+.texto-header {
     background-color: green;
 }
